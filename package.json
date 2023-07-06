@@ -1,0 +1,11 @@
+{
+  "name": "bestmates_back",
+  "version": "2.0.0",
+  "description": "BestMates goal is to connect compatible people when moving into new cities in need of a roommate, to share an apartment.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bowersjuan",
+  "license": "ISC"
+}
